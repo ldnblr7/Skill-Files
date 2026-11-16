@@ -1,2 +1,2 @@
 # Skill-Files
-Skill Files I have used and tested.
+Skill Files I have developed, tested, and implemented in my workplace.
